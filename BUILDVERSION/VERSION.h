@@ -1,0 +1,5 @@
+#define MAJORVER 0
+#define MINORVER 1
+#define PATCHVER 0
+#define YEARSTART 2026
+#define YEARCURRENT 2026
