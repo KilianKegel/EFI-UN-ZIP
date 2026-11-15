@@ -3,6 +3,7 @@
     <Platform Name="x64" />
   </Configurations>
   <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
     <File Path="README.md" />
   </Folder>
   <Project Path="BUILDVERSION/BUILDVERSION.vcxproj" Id="5ec3386c-97f6-4886-9fbf-0a5c4ea70f5d" />
