@@ -9,19 +9,19 @@
   <Project Path="BUILDVERSION/BUILDVERSION.vcxproj" Id="5ec3386c-97f6-4886-9fbf-0a5c4ea70f5d" />
   <Project Path="efiunzip/efiunzip.vcxproj" Id="4d6be984-b578-477e-89b1-85f89430ba0c">
     <BuildDependency Project="BUILDVERSION/BUILDVERSION.vcxproj" />
-    <BuildDependency Project="libc/toroCLibrary/toroCLibrary.vcxproj" />
+    <BuildDependency Project="libcsrc/toroCLibrary/toroCLibrary.vcxproj" />
     <BuildDependency Project="libminizips/libminizips.vcxproj" />
     <BuildDependency Project="libmockup/libmockup.vcxproj" />
     <BuildDependency Project="libzs/libzs.vcxproj" />
   </Project>
   <Project Path="efizip/efizip.vcxproj" Id="1dde786b-e466-4512-bf16-96be6cd451c2">
     <BuildDependency Project="BUILDVERSION/BUILDVERSION.vcxproj" />
-    <BuildDependency Project="libc/toroCLibrary/toroCLibrary.vcxproj" />
+    <BuildDependency Project="libcsrc/toroCLibrary/toroCLibrary.vcxproj" />
     <BuildDependency Project="libminizips/libminizips.vcxproj" />
     <BuildDependency Project="libmockup/libmockup.vcxproj" />
     <BuildDependency Project="libzs/libzs.vcxproj" />
   </Project>
-  <Project Path="libc/toroCLibrary/toroCLibrary.vcxproj" Id="8c250c8a-c234-450d-83ed-f0c898e1a739" />
+  <Project Path="libcsrc/toroCLibrary/toroCLibrary.vcxproj" Id="8c250c8a-c234-450d-83ed-f0c898e1a739" />
   <Project Path="libminizips/libminizips.vcxproj" Id="ab4c7f26-7c2a-41b8-81f7-30d01181a06a" />
   <Project Path="libmockup/libmockup.vcxproj" Id="abbed49e-9470-4d40-b088-b6578d01a03a" />
   <Project Path="libzs/libzs.vcxproj" Id="e013ed11-ec34-417c-bb0d-e590bcd7b444" />

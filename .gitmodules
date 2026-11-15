@@ -4,3 +4,6 @@
 [submodule "libc"]
 	path = libc
 	url = https://github.com/KilianKegel/Visual-TORO-C-LIBRARY-for-UEFI.git
+[submodule "libcsrc"]
+	path = libcsrc
+	url = https://github.com/KilianKegel/Visual-TORO-C-LIBRARY-for-UEFI.git
